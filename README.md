@@ -28,10 +28,6 @@ To explore the CSS Pricing Cards:
   
 Feel free to modify and customize the cards to fit your project's needs!
 
-## Preview
-
-![Pricing Cards Preview](path/to/preview-image.png)  <!-- Include the actual image path to demonstrate the design -->
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
