@@ -15,8 +15,8 @@ To explore the CSS Pricing Cards:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/matifelitti/css-pricing-cards.git
-   cd css-pricing-cards
+   git clone https://github.com/matifelitti/CSS-Pricing-Cards.git
+   cd CSS-Pricing-Cards
    ```
 
 2. **Open the Project**
